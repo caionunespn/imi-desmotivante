@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imi-desmotivante/static/css/main.4b849351.css",
+    "main.js": "/imi-desmotivante/static/js/main.344d13ca.js",
+    "index.html": "/imi-desmotivante/index.html",
+    "main.4b849351.css.map": "/imi-desmotivante/static/css/main.4b849351.css.map",
+    "main.344d13ca.js.map": "/imi-desmotivante/static/js/main.344d13ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b849351.css",
+    "static/js/main.344d13ca.js"
+  ]
+}
